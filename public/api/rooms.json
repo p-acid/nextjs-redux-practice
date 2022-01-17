@@ -1,0 +1,22 @@
+{
+  "allRooms": [
+    { "name": "Hilton Hotel", "rating": "4", "price": 112 },
+    {
+      "name": "InterCointinental Hotel",
+      "rating": "5",
+      "price": 305,
+      "sale_percent": 15
+    },
+    {
+      "name": "Banyan Tree Hotel",
+      "rating": "4",
+      "price": 110
+    },
+    {
+      "name": "Park Hyatt Hotel",
+      "rating": "5",
+      "price": 250,
+      "sale_percent": 30
+    }
+  ]
+}
