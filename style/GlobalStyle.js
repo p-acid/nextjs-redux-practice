@@ -9,8 +9,13 @@ const GlobalStyles = createGlobalStyle`
         color: inherit;
     }
 
+    
     *{
-        box-sizing: border-box;
+        box-sizing: border-box;    
+    }
+
+    body {
+        font-family: Outfit, sans-serif;
     }
 `;
 

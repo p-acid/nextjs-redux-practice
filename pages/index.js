@@ -24,5 +24,7 @@ export const getServerSideProps = wrapper.getServerSideProps(
 );
 
 const Wrapper = styled.div`
-  padding: 1rem;
+  margin: 0 auto;
+  padding: 3rem 0;
+  max-width: 50rem;
 `;
